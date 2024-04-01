@@ -1,5 +1,3 @@
-import * as Networker from "monorepo-networker";
-
 async function bootstrap() {
 
   if (figma.editorType === "figma") {
@@ -15,8 +13,6 @@ async function bootstrap() {
       title: "My FigJam Plugin!",
     });
   }
-
-  console.log("Bootstrapped @", Networker.Side.current.getName());
 }
 
 bootstrap();
