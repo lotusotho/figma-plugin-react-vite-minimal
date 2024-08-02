@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/CoconutGoodie/figma-plugin-react-vite/master/.github/assets/logo.png" height="100px" alt="Logo"/>
 </p>
 <h1 align="center">Figma Plugin Boilerplate: React + Vite <i>Minimal</i></h1>
+<h2 align="center">Fork from original project by CoconutGoodie</h2>
 
 <!-- Slogan -->
 <p align="center">
